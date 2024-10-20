@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ex010</string>
+    <string name="name_label">Nome</string>
+    <string name="id_label">Matricula</string>
+    <string name="birth_label">Idade</string>
+
+    <string name="professor_hour_label">Horista</string>
+    <string name="professor_titular_label">Titular</string>
+
+    <string name="years_in_institution_label">Anos</string>
+    <string name="salary_label">Salário</string>
+
+    <string name="hours_lesson_label">Horas aula</string>
+    <string name="hour_value_label">Valor hora</string>
+
+    <string name="calc_btn">Calcular</string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+
+    <string name="money_Sign">R$</string>
+</resources>
